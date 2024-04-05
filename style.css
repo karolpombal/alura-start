@@ -2,6 +2,17 @@ body{
     background-color: #5163cb;
 }
 
+.cabeçalho{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.cabeçalho-lista-item{
+display: inline-block;
+margin: 0 20px;
+}
+
 .logo{
     width: 25%
 }
