@@ -44,5 +44,8 @@ body{
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 230px;
+    width: 220px;
+}
+.estudante-icone{
+    width: 25px;
 }
