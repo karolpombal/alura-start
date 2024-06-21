@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #270841;
+    background-color: #662f92;
     color: #ffffff;
 }
 
@@ -30,7 +30,7 @@ body{
 }
 
 .escola{
-    background-image: linear-gradient(#270841, #bdbdbd);
+    background-image: linear-gradient(#662f92, #bdbdbd);
     justify-content: center;
     align-items: center;
     display: flex;
@@ -48,4 +48,9 @@ body{
 }
 .estudante-icone{
     width: 25px;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 16% 16% 16% 16% 16% 16%;
 }
